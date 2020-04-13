@@ -9,6 +9,8 @@ import android.os.Bundle
 // 4. create new branch -> VCS -> Git -> branches -> create new branch -> ok
 // 5. commit changes -> add ui button -> select commit changes -> commit changes
 // 6. change to master ->
+// 7. merge with master -> VSC -> git -> merge -> select branch -> merge
+// 8. push commits to master -> VSC -> Git -> push
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
